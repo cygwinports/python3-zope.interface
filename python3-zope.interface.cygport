@@ -1,0 +1,11 @@
+inherit python3-distutils
+
+NAME="python3-zope.interface"
+VERSION=4.0.3
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Py3K Zope interfaces library"
+DESCRIPTION="This package provides an implementation of object interfaces for
+Python. Interfaces are a mechanism for labeling objects as conforming to a
+given API or contract. So, this package can be considered as implementation of
+the Design By Contract methodology support in Python."
