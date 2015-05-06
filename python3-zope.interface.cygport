@@ -1,7 +1,7 @@
 inherit python3-distutils
 
 NAME="python3-zope.interface"
-VERSION=4.0.3
+VERSION=4.1.2
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Py3K Zope interfaces library"
